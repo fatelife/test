@@ -52,6 +52,7 @@ def adduser():
                 print('\t添加用户成功！')
     input('\n\t按Enter继续……\n')
 
+    
 def check_updata():
     '''查询修改用户信息'''
     global userlist
